@@ -4337,6 +4337,16 @@
           "added_ts": 1687294462370
         }
       ]
+    },
+    {
+      "name": "r/knitting",
+      "links": [
+        {
+          "service": "lemmy",
+          "url": "https://lemmy.world/c/knitting",
+          "official": false
+        }
+      ]
     }
   ]
 }
